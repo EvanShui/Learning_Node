@@ -1,0 +1,11 @@
+# Node and Chrome are built off of Chrome's V8 Javascript engine. The engine
+itself is built off of C++ which allows node and chrome to interact with OS
+features (file I/O / file systems / web servers (networks / sockets / etc.)).
+Originally JS as a language was quite limited in it's capabilities. This
+required developers to work with other langauges to ultimately create a web
+app. 
+
+Node.js was developed to bring Javascript to server-side applications. Thus,
+Node can be used to access OS, file system, etc. making it an important tool to
+build fully-functional applications. Node is written in C, C++, and JS and is
+built on top of V8. 
